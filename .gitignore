@@ -1,0 +1,26 @@
+#python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+#virtual environment
+.venv/
+
+#environment
+.env
+.env.local
+.env.*.local
+
+#generated code
+*.egg-info/
+dist/
+build/
+
+.ruff_cache/
+
+# VS Code
+.vscode/
+
+#windows
+Thumbs.db
